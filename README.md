@@ -1,5 +1,4 @@
-# C
-Estudo de C
+Estudo e projeto em C
 
 Sistema de Gerenciamento de Clientes, Produtos e Vendas em C
 
